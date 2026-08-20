@@ -1,0 +1,16 @@
+{
+  "name": "X-Mark — дневник лучника",
+  "short_name": "X-Mark",
+  "description": "Трекер тренировок для лучников: интерактивная мишень, стандартные раунды, анализ группы, калькулятор прицельных меток. Часть проекта XMake.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a12",
+  "theme_color": "#0a0a12",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
